@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Soeinerda
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C++
 - 📫 How to reach me benjamin-preusse@web.de
 
